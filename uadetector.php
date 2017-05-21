@@ -14,9 +14,7 @@
  **/
 
 // no direct access
-defined( '_JEXEC' ) or die( 'Restricted access' );
-
-jimport( 'joomla.plugin.plugin' );
+defined( '_JEXEC' ) or die;
 
 /**
  * UADetector Plugin
