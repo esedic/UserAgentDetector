@@ -19,7 +19,7 @@ defined( '_JEXEC' ) or die;
 /**
  * UADetector Plugin
  */
-class plgSystemUadetector extends JPlugin
+class PlgSystemUadetector extends JPlugin
 {
 	public function onAfterInitialise()
 	{
